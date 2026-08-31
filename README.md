@@ -2,7 +2,7 @@
 
 I'm Meng, a UNC MSCS student 
 
-- 💻 Primarily code in Python
+- 💻 Primarily code in Python and C++
 - 📊 Interested in DL and RL
 - 🌱 Currently learning deep learning
 
