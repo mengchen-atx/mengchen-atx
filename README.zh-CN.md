@@ -10,42 +10,17 @@
 [English](README.md) · [中文](README.zh-CN.md)
 
 <a href="https://mengchen-atx.github.io/"><img src="https://img.shields.io/badge/Website-4B9CD3?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Personal website" /></a>
-<a href="https://mengchen-atx.github.io/Meng_Chen_Resume_Summer_2027.pdf"><img src="https://img.shields.io/badge/Resume-243746?style=for-the-badge" alt="Download resume" /></a>
 <a href="mailto:mengc@cs.unc.edu"><img src="https://img.shields.io/badge/Email-mengc%40cs.unc.edu-4B9CD3?style=for-the-badge" alt="Email: mengc@cs.unc.edu" /></a>
 
 </div>
 
 ---
 
-### 我正在做什么
+### 关于我
 
-我独立开发全栈 AI 产品，同时在 UNC-Chapel Hill 跟随 **Huaxiu Yao** 参与 **LLM Agent、评测基准与可复现实验** 研究。
-
-#### 💻 Serenity Intelligence / Alphaline
-**个人开发项目 · 2026 年 5 月至今**
-
-面向科技与投资信息用户的 AI 分析和订阅平台，提供结构化内容分析、Web 阅读与订阅推送。
-
-- 累计服务 **100+ 付费客户**，接入 **6,800+ 条内容**，存储 **6,700+ 条结构化分析**。
-- 实现流式采集、定时轮询、内容去重和数据库持久化。
-- 集成多模型 API、结构校验、JSON 修复、重试和原文降级。
-- 开发频道权限、订阅到期管理、通知流程和可视化面板。
-
-`TypeScript` `Next.js` `React` `PostgreSQL` `Prisma` `LLM APIs`
-
-<sub>数据截至 2026 年 9 月 5 日；客户数为累计付费客户数。</sub>
-
-#### 🔬 RSI-Exam：自我改进 Agent 评测
-**科研项目 · 2026 年 8 月至今**
-
-参与科学机器学习任务设计、隐藏测试集评估和数据泄漏分析。工作包括增强子与基因关联预测任务、包含 **27 个实验节点**的 Agent 轨迹分析，以及运行约 **30 轮**的 Python 多 Agent 评审流程。
-
-#### ⚙️ LLM Agent Harness 优化
-**科研项目 · 2026 年 8 月至今**
-
-在 Linux 服务器上配置和运行基于 Harbor 的评测与 harness 搜索实验，保存实验产物，并排查模型 API 适配问题。个人贡献集中在**实验执行、环境配置与验证**。
-
-[了解更多 →](https://mengchen-atx.github.io/#experience)
+- 🎓 UNC-Chapel Hill 计算机科学硕士生，导师为 Huaxiu Yao。
+- 🔬 关注 LLM Agent、Agent 评测与自我改进系统。
+- 💻 喜欢开发全栈应用，也喜欢探索 AI 工具。
 
 ---
 
