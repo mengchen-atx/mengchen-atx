@@ -2,8 +2,6 @@
 
 # Hi, I'm Meng Chen 👋
 
-### Software for real users. Research on AI agents.
-
 M.S. Computer Science @ **UNC-Chapel Hill** · Expected 2028<br>
 **Seeking Summer 2027 internships in Software Engineering & Applied AI**
 
