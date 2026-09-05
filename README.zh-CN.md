@@ -54,11 +54,6 @@
 
 </details>
 
-### 📄 精选论文
-
-**共同作者** — [AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration](https://arxiv.org/abs/2605.20025)。arXiv 预印本，2026。<br>
-[项目仓库](https://github.com/aiming-lab/AutoResearchClaw)
-
 ---
 
 <div align="center">

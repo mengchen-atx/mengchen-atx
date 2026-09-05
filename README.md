@@ -54,11 +54,6 @@ M.S. Computer Science @ **UNC-Chapel Hill** · Expected 2028<br>
 
 </details>
 
-### 📄 Selected publication
-
-**Co-author** — [AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration](https://arxiv.org/abs/2605.20025). arXiv preprint, 2026.<br>
-[Project repository](https://github.com/aiming-lab/AutoResearchClaw)
-
 ---
 
 <div align="center">
