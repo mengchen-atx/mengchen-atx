@@ -7,6 +7,10 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&amp;weight=500&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=808080&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=I+am+a+full+stack+AI+native+developer%3BI+am+building+agent+applications" alt="I am a full stack AI native developer. I am building agent applications." />
+</p>
+
 <a href="https://mengchen-atx.github.io/"><img src="https://img.shields.io/badge/Website-4B9CD3?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Personal website" /></a>
 <a href="mailto:mengc@cs.unc.edu"><img src="https://img.shields.io/badge/Email-mengc%40cs.unc.edu-4B9CD3?style=for-the-badge" alt="Email: mengc@cs.unc.edu" /></a>
 
