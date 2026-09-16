@@ -3,7 +3,7 @@
 # Hi, I'm Meng Chen 👋
 
 M.S. Computer Science @ **UNC-Chapel Hill** · Expected 2028<br>
-**Seeking Summer 2027 internships in Software Engineering & Applied AI**
+
 
 [English](README.md) · [中文](README.zh-CN.md)
 
