@@ -61,6 +61,6 @@
 <div align="center">
 
 **欢迎交流软件开发、AI 应用与 Agent 评测。**<br>
-[mengc@cs.unc.edu](mailto:mengc@cs.unc.edu) · [个人网站](https://mengchen-atx.github.io/) · [LinkedIn](https://www.linkedin.com/in/cheam-malice-400531331/)
+[mengc@cs.unc.edu](mailto:mengc@cs.unc.edu) · [个人网站](https://mengchen-atx.github.io/) · [LinkedIn](https://www.linkedin.com/in/meng-chen-351b763a8/)
 
 </div>

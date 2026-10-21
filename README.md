@@ -61,6 +61,6 @@ M.S. Computer Science @ **UNC-Chapel Hill** · Expected 2028<br>
 <div align="center">
 
 **Let's connect about software engineering, AI applications, or agent evaluation.**<br>
-[mengc@cs.unc.edu](mailto:mengc@cs.unc.edu) · [Website](https://mengchen-atx.github.io/) · [LinkedIn](https://www.linkedin.com/in/cheam-malice-400531331/)
+[mengc@cs.unc.edu](mailto:mengc@cs.unc.edu) · [Website](https://mengchen-atx.github.io/) · [LinkedIn](https://www.linkedin.com/in/meng-chen-351b763a8/)
 
 </div>
