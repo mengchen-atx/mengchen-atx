@@ -32,7 +32,7 @@
 
 | 项目 | 贡献 |
 | --- | --- |
-| [agentscope](https://github.com/agentscope-ai/agentscope) · 多智能体框架，⭐ 34k+ | [fix(tool): keep resolvable annotations when one hint fails (#3484)](https://github.com/agentscope-ai/agentscope/pull/3484) |
+| [agentscope](https://github.com/agentscope-ai/agentscope) · 多智能体框架，⭐ 34k+ | [fix(tool): keep resolvable annotations when one hint fails (#3484)](https://github.com/agentscope-ai/agentscope/pull/3484)：自己发现并提交 issue [#3446](https://github.com/agentscope-ai/agentscope/issues/3446) 后修复 |
 | [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) · 多模态大模型评测框架，⭐ 4k+ | [fix: parse bold MCQ labels and Chinese colon answers (#1609)](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/1609)：自己发现并提交 issue [#1608](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/1608) 后修复 |
 
 [查看我所有已合并的 PR →](https://github.com/search?q=is%3Apr+author%3Amengchen-atx+is%3Amerged+-user%3Amengchen-atx&type=pullrequests)
