@@ -35,6 +35,7 @@ Merged pull requests to open-source AI projects:
 | [agentscope](https://github.com/agentscope-ai/agentscope) · multi-agent framework, ⭐ 34k+ | [fix(tool): keep resolvable annotations when one hint fails (#3484)](https://github.com/agentscope-ai/agentscope/pull/3484). Found and reported the bug in [#3446](https://github.com/agentscope-ai/agentscope/issues/3446), then fixed it. |
 | [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) · multimodal LLM evaluation toolkit, ⭐ 4k+ | [fix: parse bold MCQ labels and Chinese colon answers (#1609)](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/1609). Found and reported the bug in [#1608](https://github.com/EvolvingLMMs-Lab/lmms-eval/issues/1608), then fixed it. |
 | [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) · large vision-language model evaluation toolkit, ⭐ 4k+ | [fix(matching): do not read the article "a" as option A (#1811)](https://github.com/open-compass/VLMEvalKit/pull/1811). Found and reported the bug in [#1810](https://github.com/open-compass/VLMEvalKit/issues/1810), then fixed it. |
+| [haystack](https://github.com/deepset-ai/haystack) · LLM orchestration framework for RAG and agents, ⭐ 26k+ | [fix: reject required underscore-prefixed tool parameters (#13567)](https://github.com/deepset-ai/haystack/pull/13567). Found and reported the bug in [#13472](https://github.com/deepset-ai/haystack/issues/13472), then fixed it. |
 
 [All my merged PRs →](https://github.com/search?q=is%3Apr+author%3Amengchen-atx+is%3Amerged+-user%3Amengchen-atx&type=pullrequests)
 
